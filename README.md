@@ -23,7 +23,7 @@ And return information of the SSN such as:
 ## Tested Environments
 - Windows 10 64-bit .NET 7.0, Powershell 5.1
 - Ubuntu Linux 20.04.04 LTS 64-bit .NET 7.0
-- SSN Name Match Cloud API Version 6.2.0.1022
+- SSN Name Match Cloud API Version 6.2.0.1028
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
